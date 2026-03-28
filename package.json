@@ -1,15 +1,13 @@
-﻿{
+{
   "name": "linkedin-mcp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.28.0",
     "cors": "^2.8.6",
