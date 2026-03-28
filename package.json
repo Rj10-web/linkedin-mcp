@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "linkedin-mcp",
   "version": "1.0.0",
   "description": "",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.28.0",
     "cors": "^2.8.6",
